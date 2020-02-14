@@ -1,2 +1,9 @@
 # r-language
-202002-06
+
+- lesson 1
+
+- lesson 2
+
+- lesson 3
+
+and so on...
